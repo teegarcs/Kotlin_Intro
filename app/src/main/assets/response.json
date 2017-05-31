@@ -1,0 +1,92 @@
+[
+  {
+    "name":"Technology Solutions",
+    "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/app%20development_co/used_applicationhostinginaws/citymobile_teal.jpg",
+    "subTitle":"Solutions Where You Are",
+    "body":"We believe in the greatness to be discovered within the depths of data that will ignite the fuse of innovation.",
+    "serviceOfferings":[
+      {
+        "name":"Mobile & Devices",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/app%20development_co/used_nativeiphoneapplicationimplementation/techoverhead_green.jpg",
+        "subTitle":"Mobile is part of the bigger picture",
+        "body":"We understand how mobile fits into the larger omni-channel view and can help your organization develop and implement a sound strategy quickly and efficiently - strategies that deliver consistency across all channels, improved speed to market, and cost savings for your organization.CapTech will help you think in terms of the customer journey and the best mix of solutions to engage customers. Our defined methodologies and proven approach drive results to realize your goals and objectives."
+      },
+      {
+        "name":"DevOps",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/transformation_co/arrowscircuit_blue.jpg",
+        "subTitle":"Invest in Digital Strategies",
+        "body":"Our DevOps experts break down silos and integrate team responsibilities across traditional functional lines. DevOps offers rapid and repeatable product delivery cycles that provide competitive advantages and tangible business results. We combine a technical approach with our skills in transformation and organizational change management to drive the required cultural paradigm shift to make DevOps work for your organization."
+      },
+      {
+        "name":"Services and APIs",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/new%20card%20images/mobile/used_uilayoutguideautolayout/mobiletouchapps_red.jpg",
+        "subTitle":"Sound Decision-Making",
+        "body":"CapTech develops services and APIs (application programming interfaces) that enable businesses to modernize their application communication infrastructures while maintaining the performance, scalability, and flexibility to remain relevant in a fast-changing business and technology landscape. Our experts excel in enterprise integration and enterprise architecture. We partner with you to understand your needs and current state in order to offer customized solutions to solve your integration challenges."
+      },
+      {
+        "name":"Cloud",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/molilecsfeatured.jpg",
+        "subTitle":"The Business Environment is Changing Rapidly",
+        "body":"We do more than just port your infrastructure to the cloud. We partner with you to develop and implement a cloud strategy, apply cloud services, and help your business realize the full value of the cloud. Recommending only those solutions and service providers that best meet your needs, our cross-functional teams help you make the most of the cloud – whether in big data, mobile devices, or other areas. Our experts have extensive experience helping clients, large and small, gain operational agility, reduce risk, and optimize IT expenditures."
+      },
+      {
+        "name":"Web Content and Collaboration",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/molileblogsfeatured.jpg",
+        "subTitle":"Content is King",
+        "body":"CapTech has more than a decade of expertise in web content management (WCM); custom front-end development; and the implementation of portals, knowledge management, and collaboration tools. We provide support for all phases of web development work, from strategy and platform selection through technical implementation, deployment, and beyond. We implement WCM technologies for multi-channel content distribution across various networks, platforms, and devices—enabling your employees to improve decision-making, share important information, build your brand, and drive growth."
+      }
+    ]
+  },
+  {
+    "name":"Customer Engagement",
+    "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/new%20card%20images/creditcardcomputer_green.jpg",
+    "subTitle":"Your Customers Our Priority",
+    "body":"People Create Customer Experience",
+    "serviceOfferings":[
+      {
+        "name":"Digital Strategy",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/customer%20engagement_co/websketch_purple.jpg",
+        "subTitle":"Customers Expect a Seamless Experience",
+        "body":"The impact of digitization is not new but digital business transformation is at a defining moment and is presenting unprecedented challenges for C-suite executives. CapTech helps senior executives to digitally transform customer experiences, operations or business models.\nCapTech understands that every customer interaction is meaningful and each action needs to be captured, analyzed and work within the framework of the “big picture” keeping the company infrastructure in mind."
+      },
+      {
+        "name":"UX Research and Design",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/data%20and%20analytics_co/used_accessibilitymakingappusableforeveryone/mobileapp_orange.jpg",
+        "subTitle":"Beauty is in The Eye of The Beholder",
+        "body":"In the eyes of your customer lay the keys to what intelligent and intuitive ease of use means to them, based on various touch points in both web and mobile environments.\nWe can gauge and learn from this information -- even before expensive programming is done -- integrating compelling design and flawless execution to ensure a successful rollout of your digital strategy without missing the mark."
+      },
+      {
+        "name":"Integrated Marketing Management",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/general/used_enterprisedataqualityremediationroadmap/linesgraphs_purple.jpg",
+        "subTitle":"Enabling a Frictionless Customer Journey",
+        "body":"We can help you form a 360-degree view of the customer, select marketing technology vendors that will support your strategy, streamline the marketing back office, and manage the impacts that new solutions and processes will have in such core marketing areas as search, social, content marketing, and lead generation."
+      }
+    ]
+  },
+  {
+    "name":"Data & Analytics",
+    "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/data%20and%20analytics_co/used_theartofsoccerrefereeinganddatamodeling/gearnumbers_lightblue.jpg",
+    "subTitle":"Data Made Easy",
+    "body":"Better Data, Better Insights, Better Decisions, Better Customer Experience…",
+    "serviceOfferings":[
+      {
+        "name":"Big Data",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/general/used_managingchangeinthemillennialage/people_red.jpg",
+        "subTitle":"Identify Important Business Trends and Opportunities,",
+        "body":"Our data scientists help you gain more value from your data working with you to determine exactly what your needs are, and then create a customized approach to generate a structured, prioritized list of use cases to inform the design of all components of a data science and platform. We ensure that data science models are maintainable, scalable, and affordable"
+      },
+      {
+        "name":"Data Science & Visualization",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/health_co/health_red.jpg",
+        "subTitle":"Strong Business Intelligence and Analytics Capabilities",
+        "body":"CapTech meets you where you are in the process, developing a platform for showcasing your enterprise data that allows stakeholders to dynamically interact and make informed business decisions. Partnering to understanding the exact needs of your organization, we take a customized approach to deliver solutions that turn data into actionable information."
+      },
+      {
+        "name":"Data Engineering",
+        "imageLink":"https://www.captechconsulting.com/library/captech/tile-backgrounds/color%20overlay/transformation_co/used_modernizingitservicemanagementsystems/bikingsunrise_teal.jpg",
+        "subTitle":"Quickly Find Answers to Business Problems",
+        "body":"Our data engineers specialize in building advanced systems that bring data together from disparate sources, making it available to data scientists and other data consumers. We apply engineering best practices and use advanced technologies to solve complex data problems and ensure that your business has the information it needs. Our extensive experience in traditional and big data environments will help make your data readily accessible so you can solve your business problems and identify opportunities faster."
+      }
+    ]
+  }
+]
