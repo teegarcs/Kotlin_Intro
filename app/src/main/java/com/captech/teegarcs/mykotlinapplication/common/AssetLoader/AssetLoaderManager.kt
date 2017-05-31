@@ -27,6 +27,7 @@ class AssetLoaderManager(val context: Context) : AssetLoader {
             if (TextUtils.isEmpty(rawObjectData)) {
                 subscriber.onError(Exception(fileName))
             }
+            //must use type token as passing in the java class reference failed with a mapping error
             subscriber.onNext(gson.fromJson(rawObjectData, typeOfT))
             subscriber.onCompleted()
         }).subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread())
@@ -36,7 +37,7 @@ class AssetLoaderManager(val context: Context) : AssetLoader {
      * Method to return a String of data from an Assets folder. For our use case it will be JSON
      */
     private fun openAsset(fileName: String): String {
-        val assetManager = context?.assets
+        val assetManager = context.assets
 
         val stringBuilder = StringBuilder()
 

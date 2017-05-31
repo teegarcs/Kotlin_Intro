@@ -27,6 +27,9 @@ class ServiceListActivity : AppCompatActivity(), ServiceListContract {
         adapter = ServiceListAdapter(this)
         recyclerView.adapter = adapter
 
+        //performance inclusion. Not necessary for demo
+        recyclerView.setHasFixedSize(true)
+
         detailsPresenter = ServiceListPresenter(intent.getParcelableExtra(EXTRA_PRACTICE_AREA))
     }
 

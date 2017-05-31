@@ -32,6 +32,8 @@ class HomeActivity : AppCompatActivity(), HomeContract, HomeAdapter.PracticeList
         recyclerView.layoutManager = LinearLayoutManager(this)
         adapter = HomeAdapter(this)
         recyclerView.adapter = adapter
+
+        //performance inclusion. Not necessary for demo
         recyclerView.setHasFixedSize(true)
     }
 

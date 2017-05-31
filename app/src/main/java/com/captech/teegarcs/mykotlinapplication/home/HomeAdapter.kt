@@ -48,6 +48,8 @@ class HomeAdapter(val context: Context) : RecyclerView.Adapter<HomeAdapter.Pract
             itemView.listBody.text = area?.body
             itemView.listSubTitle.text = area?.subTitle
             this.practiceListener = practiceListener
+            //in this case, lets force an NPE if something bad happens. You probably would rather have better
+            //handling than this, but just for demo purposes
             itemView.setOnClickListener({ practiceListener.practiceSelected(area!!) })
         }
     }
