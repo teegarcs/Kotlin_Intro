@@ -14,7 +14,7 @@ import rx.Subscription
  */
 class HomePresenter(val assetLoader: AssetLoader) : BasePresenter<HomeContract>() {
 
-    var subscription: Subscription? = null
+    private var subscription: Subscription? = null
 
     override fun onViewReceived() {
         super.onViewReceived()
